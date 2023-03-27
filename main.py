@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title('My APP-HOME')
+st.title('First streamlit APP')
 
 option = st.sidebar.selectbox(
     'Selecciona la vista',
